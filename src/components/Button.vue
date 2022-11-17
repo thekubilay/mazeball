@@ -1,6 +1,5 @@
 <template>
-  <button class="btn"></button>
-
+  <button class=""></button>
 </template>
 
 <script lang="ts" setup>
