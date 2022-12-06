@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400;500;700&family=Noto+Sans&family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+
+#app {
+  display: flex;
+  width: 100%;
+  height: calc(100vh - 80px);
+  font-family: 'Noto Sans JP', sans-serif, 'M PLUS 1p', sans-serif;
+  overflow: hidden;
+}
+
+#app .relative {
+  position: relative;
+}
