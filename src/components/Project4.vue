@@ -1,25 +1,18 @@
 <template>
-  <div class="project-1 flex justify-center relative">
-    <img class="project-1" src="../assets/img/project1.png" alt="project-1">
+  <div class="project-4 flex justify-center relative">
+    <img class="project-4" src="../assets/img/project4.png" alt="project-4">
     <div class="bg-yellow"></div>
   </div>
 </template>
-
-<script>
-export default {
-  name: "Project1"
-}
-</script>
-
 <style scoped>
-.project-1 img.project-1 {
+.project-4 img.project-4 {
   margin: auto;
   height: 270px;
   position: relative;
   z-index: 2;
 }
 
-.project-1 .bg-yellow {
+.project-4 .bg-yellow {
   position: absolute;
   z-index: 1;
   background-color: #f1c40f;
